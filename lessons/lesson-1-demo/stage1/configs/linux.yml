@@ -7,7 +7,7 @@
     ansible_password: antidotepassword
   tasks:
 
-    - name: Debug date
+    - name: Configure kubernetes repo
       shell: date
       register: date_output
 

@@ -7,6 +7,8 @@ lessonDiagram: https://raw.githubusercontent.com/nre-learning/nrelabs-curriculum
 description: |
   Example lesson used to test the various features of the Antidote platform
 
+shortDescription: Test One
+
 # prereqs:
 #   - foobar
 collection: stargate
@@ -30,7 +32,7 @@ endpoints:
 
 # - name: crpd1
 #   image: crpd
-#   configurationType: napalm
+#   # configurationType: napalm
 #   presentations:
 #   - name: cli
 #     port: 22

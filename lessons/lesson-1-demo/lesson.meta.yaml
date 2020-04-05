@@ -17,6 +17,12 @@ tags:
 - foo
 - bar
 
+authors:
+- name: Matt Oswalt
+  link: https://twitter.com/mierdin
+- name: Matt Stone
+  link: https://twitter.com/bigmstone
+
 endpoints:
 
 # - name: influxdb
@@ -87,9 +93,7 @@ endpoints:
 
 stages:
 
-  - id: 1
-    description: Stage 1
+  - description: Using Markdown as a Lesson Guide
     guideType: markdown
-  - id: 2
-    description: Stage 2
+  - description: Example of a jupyter guide
     guideType: jupyter

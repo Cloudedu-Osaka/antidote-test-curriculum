@@ -1,9 +1,3 @@
-## Example Lesson
-
----
-
-### This is a Test
-
 This lesson is meant to be a test of the various features of the Antidote platform.
 
 Run the below snippet to test the `linux-cli1` presentation:

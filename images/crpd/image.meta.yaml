@@ -1,6 +1,6 @@
 slug: crpd
 description: crpd
-privileged: true
+flavor: untrusted
 sshUser: root
 sshPassword: antidotepassword
 configUser: root
@@ -9,3 +9,5 @@ networkInterfaces:
   - 'eth0'
   - 'eth1'
   - 'eth2'
+
+

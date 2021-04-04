@@ -1,6 +1,6 @@
 slug: failure
 description: failure
-# privileged: true
+flavor: untrusted
 sshUser: root
 sshPassword: antidotepassword
 configUser: root
